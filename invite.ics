@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=PGDAC B SEP 2022;SENT-BY="mailto:pgdacsepb@dcservices.in":mailto
+ :PGDACBSEP2022@dcservices.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pgdacBatch
+ bsep22:mailto:pgdacsepb@dcservices.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=PGDAC B SE
+ P 2022:mailto:PGDACBSEP2022@dcservices.in
+DESCRIPTION;LANGUAGE=en-US:\n\n\n__________________________________________
+ ______________________________________\nMicrosoft Teams meeting\nJoin on y
+ our computer\, mobile app or room device\nClick here to join the meeting<h
+ ttps://teams.microsoft.com/l/meetup-join/19%3a9e627410454c4f6293f9abb2bf27
+ 2321%40thread.tacv2/1663152972229?context=%7b%22Tid%22%3a%22815d4bb1-af63-
+ 410d-a95e-9c191f46ef9a%22%2c%22Oid%22%3a%22c20a5763-0605-4f30-84e8-7726b85
+ 711c3%22%7d>\nMeeting ID: 418 051 745 649\nPasscode: h25VD6\nDownload Team
+ s<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on 
+ the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nLearn M
+ ore<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.micro
+ soft.com/meetingOptions/?organizerId=c20a5763-0605-4f30-84e8-7726b85711c3&
+ tenantId=815d4bb1-af63-410d-a95e-9c191f46ef9a&threadId=19_9e627410454c4f62
+ 93f9abb2bf272321@thread.tacv2&messageId=1663152972229&language=en-US>\n___
+ __________________________________________________________________________
+ ___\n\n\nYou're receiving this message because you're a member of the PGDA
+ C B SEP 2022 group from Centre For Development of Advanced Computing. To t
+ ake part in this conversation\, reply all to this message.\n\nView group f
+ iles<https://outlook.office365.com/owa/PGDACBSEP2022@dcservices.in/groupsu
+ bscription.ashx?source=EscalatedMessage&action=files&GuestId=b7e2b93a-d1fb
+ -417a-b298-3a68919ca5e0>   |   Leave group<https://outlook.office365.com/o
+ wa/PGDACBSEP2022@dcservices.in/groupsubscription.ashx?source=EscalatedMess
+ age&action=leave&GuestId=b7e2b93a-d1fb-417a-b298-3a68919ca5e0>   |   Learn
+  more about Microsoft 365 Groups<https://aka.ms/o365g>\n\n
+UID:040000008200E00074C5B7101A82E00800000000B66BA29A28C8D801000000000000000
+ 0100000008E2F214C3229C44DB49DD7B261BEE17A
+SUMMARY;LANGUAGE=en-US:Introduction to  software development methodologies
+DTSTART;TZID=India Standard Time:20220915T094500
+DTEND;TZID=India Standard Time:20220915T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20220914T105614Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2120839350
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3a9e627410454c4f6293f9abb2bf272321%40thread.tacv2/1663152972229?context
+ =%7b%22Tid%22%3a%22815d4bb1-af63-410d-a95e-9c191f46ef9a%22%2c%22Oid%22%3a%
+ 22c20a5763-0605-4f30-84e8-7726b85711c3%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/815d4bb1-af63-410d-a95e-9c191f46ef9a/c20a5763-0605-4f30-84e8-7
+ 726b85711c3/19_9e627410454c4f6293f9abb2bf272321@thread.tacv2/1663152972229
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:9e627410454c4f6293f9abb2bf27232
+ 1@thread.tacv2"\,"rid":1663152972229\,"mid":1663152972229\,"uid":"8:orgid:
+ c20a5763-0605-4f30-84e8-7726b85711c3"\,"private":false\,"type":0}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:pgdacsepb@dcservices.in\;gruu\;o
+ paque=app:conf:focus:id:teams:2:1663152972229!19:9e627410454c4f6293f9abb2b
+ f272321-thread.tacv2!c20a576306054f3084e87726b85711c3!815d4bb1af63410da95e
+ 9c191f46ef9a
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
