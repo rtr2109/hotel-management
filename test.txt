@@ -1,0 +1,4 @@
+this is the first txt file created to put in the hotel management repository in git hub with the help of git bash
+
+thia is the first txt file created to put in the hotel management repository in git hub with the help of git bash 
+
